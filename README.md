@@ -18,3 +18,4 @@
 - https://realpython.com/how-to-make-a-discord-bot-python/#interacting-with-discord-apis
 - https://discordpy.readthedocs.io/en/stable/migrating.html
 - https://docs.python.org/3/library/asyncio-task.html#
+- https://discordpy.readthedocs.io/en/stable/ext/commands/index.html
